@@ -23,7 +23,7 @@ env/
 
 # Ignore processed/generated data
 .avif
-data/
+
 
 # Ignore compressed large files
 *.zip
