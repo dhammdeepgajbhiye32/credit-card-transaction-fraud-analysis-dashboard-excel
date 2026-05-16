@@ -173,7 +173,7 @@ The dataset contains **Credit Card Transactions records** used for **fraud risk 
 Dataset obtained from Kaggle and further cleaned/transformed for dashboard analysis.
 
 Download Dataset Here:
-![Download Dataset](data/Credit_Card_Fraud_Risk_Analysis.csv)
+[Download Dataset](data/Credit_Card_Fraud_Risk_Analysis.csv)
 
 ---
 
