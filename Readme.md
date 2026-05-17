@@ -58,7 +58,7 @@ This project helps solve these issues through **data-driven fraud analysis and v
 
 - ✅ **Total Fraud Amount**
 - ✅ **Fraud Risk Score**
-- ✅b**Fraud Rate Percentage**
+- ✅ **Fraud Rate Percentage**
 - ✅ **Total Fraud Cases**
 - ✅ **Transaction Amount by Category**
 - ✅ **Fraud Cases by State**
